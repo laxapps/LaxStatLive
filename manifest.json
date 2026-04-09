@@ -1,0 +1,10 @@
+{
+  "name": "LaxStat Live",
+  "short_name": "LaxStat Live",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1e3a8a",
+  "description": "Lacrosse live scoreboard and stat tracker.",
+  "icons": []
+}
